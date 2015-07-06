@@ -1,0 +1,99 @@
+
+Nagios Core 3.5.1
+Copyright (c) 2009-2011 Nagios Core Development Team and Community Contributors
+Copyright (c) 1999-2009 Ethan Galstad
+Last Modified: 08-30-2013
+License: GPL
+
+Website: http://www.nagios.org
+Nagios 3.5.1 starting... (PID=34094)
+Local time is Wed Jul 08 19:49:32 CST 2015
+Warning: Host 'mysql1' has no services associated with it!
+Warning: Host 'mysql2' has no services associated with it!
+Warning: Host 'tweb1' has no services associated with it!
+Warning: Host 'tweb2' has no services associated with it!
+
+Nagios Core 3.5.1
+Copyright (c) 2009-2011 Nagios Core Development Team and Community Contributors
+Copyright (c) 1999-2009 Ethan Galstad
+Last Modified: 08-30-2013
+License: GPL
+
+Website: http://www.nagios.org
+Nagios 3.5.1 starting... (PID=34227)
+Local time is Wed Jul 08 19:54:54 CST 2015
+Warning: Host 'mysql1' has no services associated with it!
+Warning: Host 'mysql2' has no services associated with it!
+Error: Unable to rename file '/var/log/nagios/nagios.debug' to '/var/log/nagios/nagios.debug.old': No such file or directory
+
+Nagios Core 3.5.1
+Copyright (c) 2009-2011 Nagios Core Development Team and Community Contributors
+Copyright (c) 1999-2009 Ethan Galstad
+Last Modified: 08-30-2013
+License: GPL
+
+Website: http://www.nagios.org
+Nagios 3.5.1 starting... (PID=122660)
+Local time is Wed Jul 08 22:35:10 CST 2015
+
+Nagios Core 3.5.1
+Copyright (c) 2009-2011 Nagios Core Development Team and Community Contributors
+Copyright (c) 1999-2009 Ethan Galstad
+Last Modified: 08-30-2013
+License: GPL
+
+Website: http://www.nagios.org
+Nagios 3.5.1 starting... (PID=34623)
+Local time is Wed Jul 08 23:00:37 CST 2015
+
+Nagios Core 3.5.1
+Copyright (c) 2009-2011 Nagios Core Development Team and Community Contributors
+Copyright (c) 1999-2009 Ethan Galstad
+Last Modified: 08-30-2013
+License: GPL
+
+Website: http://www.nagios.org
+Nagios 3.5.1 starting... (PID=34729)
+Local time is Wed Jul 08 23:02:10 CST 2015
+
+Nagios Core 3.5.1
+Copyright (c) 2009-2011 Nagios Core Development Team and Community Contributors
+Copyright (c) 1999-2009 Ethan Galstad
+Last Modified: 08-30-2013
+License: GPL
+
+Website: http://www.nagios.org
+Nagios 3.5.1 starting... (PID=35858)
+Local time is Wed Jul 08 23:27:41 CST 2015
+Error: Unable to rename file '/var/log/nagios/nagios.debug' to '/var/log/nagios/nagios.debug.old': No such file or directory
+
+Nagios Core 3.5.1
+Copyright (c) 2009-2011 Nagios Core Development Team and Community Contributors
+Copyright (c) 1999-2009 Ethan Galstad
+Last Modified: 08-30-2013
+License: GPL
+
+Website: http://www.nagios.org
+Nagios 3.5.1 starting... (PID=78942)
+Local time is Wed Jul 08 23:56:08 CST 2015
+
+Nagios Core 3.5.1
+Copyright (c) 2009-2011 Nagios Core Development Team and Community Contributors
+Copyright (c) 1999-2009 Ethan Galstad
+Last Modified: 08-30-2013
+License: GPL
+
+Website: http://www.nagios.org
+Nagios 3.5.1 starting... (PID=79322)
+Local time is Thu Jul 09 00:03:49 CST 2015
+Warning: Duplicate definition found for service 'threads-connected' on host 'mysql1' (config file '/etc/nagios/jimmy/mysql.cfg', starting on line 84)
+
+Nagios Core 3.5.1
+Copyright (c) 2009-2011 Nagios Core Development Team and Community Contributors
+Copyright (c) 1999-2009 Ethan Galstad
+Last Modified: 08-30-2013
+License: GPL
+
+Website: http://www.nagios.org
+Nagios 3.5.1 starting... (PID=79381)
+Local time is Thu Jul 09 00:05:27 CST 2015

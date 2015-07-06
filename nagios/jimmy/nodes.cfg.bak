@@ -1,0 +1,57 @@
+#define hostgroup {
+# hostgroup_name jimmy-lvs-servers
+# alias Jimmy LVS Servers
+# members lvs1,lvs2
+#}
+
+define hostgroup {
+ hostgroup_name jimmy-mysql-servers
+ alias Jimmy Mysql Servers
+ members mysql1,mysql2
+}
+
+
+define hostgroup {
+ hostgroup_name jimmy-ganglia
+ alias Jimmy Ganglia
+}
+
+#define host {
+#        name lvs-server
+#        use linux-server
+#        hostgroups jimmy-lvs-servers
+#        # TEMPLATE!
+#        register 0
+#}
+
+
+define host {
+        name mysql-server
+        use linux-server
+        hostgroups jimmy-mysql-servers
+        # TEMPLATE!
+        register 0
+}
+
+#define host {
+# use lvs-server
+# host_name lvs1
+# address 192.168.1.225
+#}
+#define host {
+# use lvs-server
+# host_name lvs2
+# address 192.168.1.226
+#}
+
+
+define host {
+ use mysql-server
+ host_name mysql1
+ address 192.168.1.248
+}
+define host {
+ use mysql-server
+ host_name mysql2
+ address 192.168.1.249
+}
